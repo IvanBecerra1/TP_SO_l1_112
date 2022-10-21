@@ -2,8 +2,9 @@ a-¿ALFA ve los datos que cargaron los demás en su repositorio?
 	- Si se puede lograr visualizar los datos
 b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
 	- Si porque el repositorio es publico y ademas estan como colaboradores
-
-
 c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+- Si, los demas lo ven.
 d-¿De qué forma se comunicaron ustedes?
+-Nos comunicamos por Discord, Whatsapp y Github.
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+
