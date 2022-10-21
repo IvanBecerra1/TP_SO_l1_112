@@ -1,3 +1,9 @@
+Participantes
+	* Ivan Becerra
+	* danilo vukosich
+	* nicolas ivan fernandez
+
+
 a-¿ALFA ve los datos que cargaron los demás en su repositorio?
 	- Si se puede lograr visualizar los datos
 b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
